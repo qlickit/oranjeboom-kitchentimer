@@ -1,0 +1,10 @@
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\bin\Debug\Oranjeboom-Kitchentimer.exe.config
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\bin\Debug\Oranjeboom-Kitchentimer.exe
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\bin\Debug\Oranjeboom-Kitchentimer.pdb
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\obj\x86\Debug\Oranjeboom-Kitchentimer.vbproj.AssemblyReference.cache
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\obj\x86\Debug\Oranjeboom-Kitchentimer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\obj\x86\Debug\Oranjeboom_Kitchentimer.KitchenTimer.resources
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\obj\x86\Debug\Oranjeboom-Kitchentimer.vbproj.GenerateResource.cache
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\obj\x86\Debug\Oranjeboom-Kitchentimer.vbproj.CoreCompileInputs.cache
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\obj\x86\Debug\Oranjeboom-Kitchentimer.exe
+C:\Users\JochemPluim\Documents\GitHub\oranjeboom-kitchentimer\obj\x86\Debug\Oranjeboom-Kitchentimer.pdb
